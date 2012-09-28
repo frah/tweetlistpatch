@@ -1,0 +1,9 @@
+Package: com.tokcs.tweetlist
+Name: TweetListPatch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: freiheit
+Author: freiheit
+Section: Tweaks
